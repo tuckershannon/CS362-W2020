@@ -34,6 +34,23 @@ class TestCard(TestCase):
         self.assertEqual("coin",card.category)
         self.assertEqual(0,card.vpoints)
 
+
+    def test_gameover(self):
+        self.setUp()
+
+        #test that game is not over because province cards are still in supply
+        self.assertEqual(Dominion.gameover(self.supply),False)
+
+        #test that the game is over because at least three of supplies are depleted
+        self.supply["Gold"] = []
+        self.supply["Duchy"] = []
+        self.supply["Estate"] = []
+        self.assertEqual(Dominion.gameover(self.supply), True)
+        #set supply to zero to test first branch
+        self.supply["Province"] = []
+        self.assertEqual(Dominion.gameover(self.supply),True)
+
+
     def test_react(self):
         pass
 
@@ -95,6 +112,8 @@ class TestActionCard(TestCase):
         self.assertEqual(player.buys, Dominion.Smithy().buys)
         self.assertEqual(player.purse, Dominion.Smithy().coins)
 
+    def test_game_over(self):
+        self.setUp()
 
 
 class TestPlayer(TestCase):
@@ -158,6 +177,13 @@ class TestPlayer(TestCase):
         #the decks only copper card should have been removed from deck
         self.assertEqual(player.deck,[])
 
+    def test_draw_coverage(self):
+        player = Dominion.Player('Annie')
+        self.assertNotEqual('NotACard',player.draw().name)
+        discardSize = len(player.discard)
+        player.deck = []
+        player.draw()
+        self.assertEqual(discardSize,len(player.deck))
     def test_cardsummary(self):
         # first make a player
         player = Dominion.Player('Annie')
@@ -181,4 +207,7 @@ class TestPlayer(TestCase):
         player.deck = []
 
         self.assertEqual(player.cardsummary(),{'VICTORY POINTS': 0})
+
+
+
 

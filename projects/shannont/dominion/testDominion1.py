@@ -11,14 +11,12 @@ from collections import defaultdict
 import testUtility
 
 # Get player names
-player_names = ["Annie", "*Ben", "*Carla"]
+player_names = testUtility.getPlayers()
+
 
 # number of curses and victory cards
-if len(player_names) > 2:
-    nV = 12
-else:
-    nV = 8
-nC = -10 + 10 * len(player_names)
+nV = testUtility.getCurses(player_names)
+nC = testUtility.getVictoryCards(player_names)
 
 box = testUtility.GetBoxes(nV)
 supply_order = testUtility.supplyOrder()
@@ -28,6 +26,7 @@ supply = testUtility.pickTen(box)
 
 # The supply always has these cards
 supply = testUtility.fillSupply(supply, nV, nC, player_names)
+
 
 #TEST CASE #1
 supply["Copper"] = [Dominion.Gold()] * (60 - len(player_names) * 7)

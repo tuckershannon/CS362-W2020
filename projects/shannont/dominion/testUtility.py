@@ -3,6 +3,21 @@ import Dominion
 import random
 from collections import defaultdict
 
+
+def getPlayers():
+    return ["Annie", "*Ben", "*Carla"]
+
+def getCurses(player_names):
+    if len(player_names) > 2:
+        nV = 12
+    else:
+        nV = 8
+    return nV
+
+def getVictoryCards(player_names):
+    nC = -10 + 10 * len(player_names)
+    return nC
+
 def GetBoxes(nV):
     box = {}
     box["Woodcutter"] = [Dominion.Woodcutter()] * 10

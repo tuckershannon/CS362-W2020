@@ -32,7 +32,7 @@ class TestCard(TestCase):
         self.assertEqual(buypower,card.buypower)
         self.assertEqual(cost,card.cost)
         self.assertEqual("coin",card.category)
-        self.assertEqual(0,card.vpoints)
+        self.assertEqual(1,card.vpoints)
 
 
     def test_gameover(self):

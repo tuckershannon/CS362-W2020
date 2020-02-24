@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de0a37ed-1857-44ea-830f-78326f8cf44f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../dominion/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dominion/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dominion/unittest_Dominion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dominion/unittest_Dominion.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="104" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1YDprAVPfDKp61FtDUGihP4vwBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_classroom_manager.py">
+    <configuration name="Unittests for test_classroom_manager.TestAssignment" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_classroom_manager.TestAssignment&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_classroom_manager.TestAssignment.test_init_assignment" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_classroom_manager.TestAssignment.test_init_assignment&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_classroom_manager.TestStudent" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_classroom_manager.TestStudent&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_classroom_manager.TestStudent.test_remove_assignment" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_classroom_manager.TestStudent.test_remove_assignment&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_classroom_manager.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_classroom_manager.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_classroom_manager.py" />
+        <item itemvalue="Python tests.Unittests for test_classroom_manager.TestStudent" />
+        <item itemvalue="Python tests.Unittests for test_classroom_manager.TestAssignment.test_init_assignment" />
+        <item itemvalue="Python tests.Unittests for test_classroom_manager.TestStudent.test_remove_assignment" />
+        <item itemvalue="Python tests.Unittests for test_classroom_manager.TestAssignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0a37ed-1857-44ea-830f-78326f8cf44f" name="Default Changelist" comment="" />
+      <created>1582487216401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582487216401</updated>
+      <workItem from="1582487219873" duration="15609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582487256993">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1582487256993" />
+    <state x="-1820" y="-57" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582503329114">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1820" y="-57" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582503329114" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1582516462599">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516462599" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1582516462597">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516462597" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1582516462596">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516462596" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1582516462599">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516462599" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1582516240186">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516240186" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center" timestamp="1582516240185">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516240185" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left" timestamp="1582516240185">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516240185" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right" timestamp="1582516240185">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582516240185" />
+    <state x="-1451" y="10" key="SettingsEditor" timestamp="1582492441595">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1451" y="10" key="SettingsEditor/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1582492441595" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582487222315">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1582487222315" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent_test_init.coverage" NAME="Unittests for test_classroom_manager.TestStudent.test_init Coverage Results" MODIFIED="1582502728883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent_test_remove_assignment.coverage" NAME="Unittests for test_classroom_manager.TestStudent.test_remove_assignment Coverage Results" MODIFIED="1582508022965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent_test_get_average.coverage" NAME="Unittests for test_classroom_manager.TestStudent.test_get_average Coverage Results" MODIFIED="1582506905934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestAssignment.coverage" NAME="Unittests for test_classroom_manager.TestAssignment Coverage Results" MODIFIED="1582507916536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent_test_get_assignment.coverage" NAME="Unittests for test_classroom_manager.TestStudent.test_get_assignment Coverage Results" MODIFIED="1582506894382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestAssignment_test_init_assignment.coverage" NAME="Unittests for test_classroom_manager.TestAssignment.test_init_assignment Coverage Results" MODIFIED="1582516240159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent.coverage" NAME="Unittests for test_classroom_manager.TestStudent Coverage Results" MODIFIED="1582516263915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent_test_submit_assignment.coverage" NAME="Unittests for test_classroom_manager.TestStudent.test_submit_assignment Coverage Results" MODIFIED="1582505247715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_for_test_classroom_manager_TestStudent_test_get_full_name.coverage" NAME="Unittests for test_classroom_manager.TestStudent.test_get_full_name Coverage Results" MODIFIED="1582489987980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment4$unittest_Dominion.coverage" NAME="unittest_Dominion Coverage Results" MODIFIED="1582491747230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../dominion" />
+    <SUITE FILE_PATH="coverage/Assignment4$Unittests_in_test_classroom_manager_py.coverage" NAME="Unittests in test_classroom_manager.py Coverage Results" MODIFIED="1582516306796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
